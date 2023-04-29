@@ -26,7 +26,7 @@
 }
 
 .nav {
- display: block;
+  display: block;
 
 }
 
@@ -42,7 +42,7 @@
 }
 
 .nav_vertical > .nav_link {
-display: block;
+  display: block;
 }
 
 .nav_inline > .nav_link:not(:last-child) {
@@ -89,6 +89,7 @@ display: block;
     color: #fff;
     font-weight: 500;
     margin-bottom: 12px;
+    text-align: left;
   
 
 }
@@ -99,6 +100,7 @@ display: block;
     max-width:585px ;
     line-height: 150%;
     margin-bottom: 24px;
+    text-align: left;
 }
 
 .hero {
@@ -197,7 +199,6 @@ display: block;
 .list_header {
     padding-bottom: 12px;
     border-bottom: 1px solid #DEE2E6;
- 
 }
 
 .category_button {
@@ -206,7 +207,6 @@ display: block;
     border: 1px solid #6C757D;
     border-radius: 40px;
     padding: 10px 16px;
-    line-height: 100%;
     line-height: 100%;
 }
 .category_button:not(:last-child) {
